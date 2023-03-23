@@ -2,6 +2,16 @@
 	Tools: Github
 2 - Create the new environment, setup.py and requirements.txt
 	Tools: VS Code, Anaconda Prompt, 
-	Enviroments: conda create -p venv(name) python==3.8 -y
+	1 - Enviroments: conda create -p venv(name) python==3.8 -y
 		     conda activate venv/
+	2 - Github sync 
+	3 - requirements.txt
+	4 - setup.py - https://www.educative.io/answers/what-is-setuppy
+	5 - src folder for the packages
 
+3 - Loggin and Exception Handling
+	1 - components folder on src - contém os módulos que iremos criar(data_ingestion, data_transformation, model_trainer, etc)
+	2 - pipeline folder on src - training pipeline and prediction pipeline
+	5 - exception.py - exception handling - Customizando as mensagens de erro
+	4 - logger.py - guardando os error e exceções
+	5 - utils.py - funcões uteis para todo o programa
