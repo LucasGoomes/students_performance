@@ -15,3 +15,8 @@
 	5 - exception.py - exception handling - Customizando as mensagens de erro
 	4 - logger.py - guardando os error e exceções
 	5 - utils.py - funcões uteis para todo o programa
+4 - EDA - 
+	Collecting, cheching and understanding the data
+	View the notebooks pipeline
+5 - model_training
+	testando diversos modelos de regressão linear para escolher o com melhores resultados
