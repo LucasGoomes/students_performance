@@ -20,3 +20,6 @@
 	View the notebooks pipeline
 5 - model_training
 	testando diversos modelos de regressão linear para escolher o com melhores resultados
+6 - data ingestion
+	buscando os dados, independente de onde estiverem
+
